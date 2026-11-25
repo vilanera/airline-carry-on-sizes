@@ -1,0 +1,818 @@
+[
+  {
+    "airline": "Air Canada",
+    "iata": "AC",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": [
+      43,
+      33,
+      16
+    ],
+    "personal_item_cm": [
+      43,
+      33,
+      16
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.aircanada.com/ca/en/aco/home/plan/baggage/carry-on.html",
+    "source_url_2": "https://www.aircanada.com/ca/en/aco/home/book/fare-options-and-fees.html",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/air-canada"
+  },
+  {
+    "airline": "Air France",
+    "iata": "AF",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      35,
+      25
+    ],
+    "cabin_bag_cm": [
+      55,
+      35,
+      25
+    ],
+    "cabin_bag_weight": 12,
+    "cabin_bag_weight_kg": 12,
+    "personal_item": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://wwws.airfrance.fr/en/information/bagages/bagage-cabine-soute",
+    "source_url_2": "https://wwws.airfrance.us/information/bagages/bagage-cabine-soute",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/air-france"
+  },
+  {
+    "airline": "Alaska Airlines",
+    "iata": "AS",
+    "allowance_model": "both_free",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      22,
+      14,
+      9
+    ],
+    "cabin_bag_cm": [
+      55.8,
+      35.5,
+      22.8
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": null,
+    "personal_item_cm": null,
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.alaskaair.com/content/travel-info/baggage/carry-on-luggage",
+    "source_url_2": "https://www.alaskaair.com/content/travel-info/baggage/overview",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/alaska"
+  },
+  {
+    "airline": "Allegiant Air",
+    "iata": "G4",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      22,
+      16,
+      10
+    ],
+    "cabin_bag_cm": [
+      55.8,
+      40.6,
+      25.4
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": [
+      18,
+      14,
+      8
+    ],
+    "personal_item_cm": [
+      45.7,
+      35.5,
+      20.3
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.allegiantair.com/baggage-1",
+    "source_url_2": "https://www.allegiantair.com/popup/optional-services-fees",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/allegiant"
+  },
+  {
+    "airline": "American Airlines",
+    "iata": "AA",
+    "allowance_model": "both_free",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      22,
+      14,
+      9
+    ],
+    "cabin_bag_cm": [
+      55.8,
+      35.5,
+      22.8
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": [
+      18,
+      14,
+      8
+    ],
+    "personal_item_cm": [
+      45.7,
+      35.5,
+      20.3
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-07-31",
+    "source_url": "https://www.aa.com/web/i18n/travel-info/baggage/carry-on-baggage.html",
+    "source_url_2": null,
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/american-airlines"
+  },
+  {
+    "airline": "British Airways",
+    "iata": "BA",
+    "allowance_model": null,
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      56,
+      45,
+      25
+    ],
+    "cabin_bag_cm": [
+      56,
+      45,
+      25
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-07-31",
+    "source_url": "https://www.britishairways.com/content/information/baggage-essentials",
+    "source_url_2": null,
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/british-airways"
+  },
+  {
+    "airline": "Condor",
+    "iata": "DE",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_weight": 8,
+    "cabin_bag_weight_kg": 8,
+    "personal_item": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.condor.com/en-gb/information-services/baggage/carry-on-baggage/",
+    "source_url_2": "https://www.condor.com/en-gb/information-services/travel-classes-fares/",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/condor"
+  },
+  {
+    "airline": "Corendon Airlines",
+    "iata": "XC",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      25
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      25
+    ],
+    "cabin_bag_weight": 10,
+    "cabin_bag_weight_kg": 10,
+    "personal_item": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_weight": 4,
+    "personal_item_weight_kg": 4,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.corendonairlines.com/baggage-allowance/hand-luggage",
+    "source_url_2": "https://www.corendonairlines.com/baggage-allowance/baggage-seat-charges",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/corendon"
+  },
+  {
+    "airline": "Delta Air Lines",
+    "iata": "DL",
+    "allowance_model": "both_free",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      22,
+      14,
+      9
+    ],
+    "cabin_bag_cm": [
+      55.8,
+      35.5,
+      22.8
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": null,
+    "personal_item_cm": null,
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-02",
+    "source_url": "https://www.delta.com/us/en/baggage/carry-on-baggage",
+    "source_url_2": null,
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/delta"
+  },
+  {
+    "airline": "easyJet",
+    "iata": "U2",
+    "allowance_model": null,
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      56,
+      45,
+      25
+    ],
+    "cabin_bag_cm": [
+      56,
+      45,
+      25
+    ],
+    "cabin_bag_weight": 15,
+    "cabin_bag_weight_kg": 15,
+    "personal_item": [
+      45,
+      36,
+      20
+    ],
+    "personal_item_cm": [
+      45,
+      36,
+      20
+    ],
+    "personal_item_weight": 15,
+    "personal_item_weight_kg": 15,
+    "verified_on": "2026-07-29",
+    "source_url": "https://www.easyjet.com/en/help/baggage/cabin-bags",
+    "source_url_2": null,
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/easyjet"
+  },
+  {
+    "airline": "Eurowings",
+    "iata": "EW",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_weight": 8,
+    "cabin_bag_weight_kg": 8,
+    "personal_item": [
+      40,
+      30,
+      25
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      25
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.eurowings.com/en/information/baggage/hand-baggage-policy.html",
+    "source_url_2": "https://www.eurowings.com/en/information/our-fares/basic.html",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/eurowings"
+  },
+  {
+    "airline": "Frontier Airlines",
+    "iata": "F9",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      24,
+      16,
+      10
+    ],
+    "cabin_bag_cm": [
+      60.9,
+      40.6,
+      25.4
+    ],
+    "cabin_bag_weight": 35,
+    "cabin_bag_weight_kg": 15.8,
+    "personal_item": [
+      18,
+      14,
+      8
+    ],
+    "personal_item_cm": [
+      45.7,
+      35.5,
+      20.3
+    ],
+    "personal_item_weight": 35,
+    "personal_item_weight_kg": 15.8,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.flyfrontier.com/travel/travel-info/bag-options",
+    "source_url_2": "https://www.flyfrontier.com/deals/bundle-save/",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/frontier"
+  },
+  {
+    "airline": "ITA Airways",
+    "iata": "AZ",
+    "allowance_model": "both_free",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_weight": 8,
+    "cabin_bag_weight_kg": 8,
+    "personal_item": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-11-17",
+    "source_url": "https://www.ita-airways.com/us/en/book-and-prepare/travel-information/baggage/carry-on-baggage",
+    "source_url_2": "https://www.ita-airways.com/it/it/book-and-prepare/travel-information/baggage/carry-on-baggage",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/ita-airways"
+  },
+  {
+    "airline": "Jet2",
+    "iata": "LS",
+    "allowance_model": "both_free",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      56,
+      45,
+      25
+    ],
+    "cabin_bag_cm": [
+      56,
+      45,
+      25
+    ],
+    "cabin_bag_weight": 10,
+    "cabin_bag_weight_kg": 10,
+    "personal_item": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.jet2.com/en/baggage",
+    "source_url_2": "https://www.jet2.com/en/faqs?topic=baggage-and-sports-equipment&category=hand-luggage-allowances",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/jet2"
+  },
+  {
+    "airline": "JetBlue",
+    "iata": "B6",
+    "allowance_model": "both_free",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      22,
+      14,
+      9
+    ],
+    "cabin_bag_cm": [
+      55.8,
+      35.5,
+      22.8
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": [
+      17,
+      13,
+      8
+    ],
+    "personal_item_cm": [
+      43.1,
+      33,
+      20.3
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.jetblue.com/help/carry-on-bags",
+    "source_url_2": "https://www.jetblue.com/flying-with-us/our-fares",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/jetblue"
+  },
+  {
+    "airline": "KLM",
+    "iata": "KL",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      35,
+      25
+    ],
+    "cabin_bag_cm": [
+      55,
+      35,
+      25
+    ],
+    "cabin_bag_weight": 12,
+    "cabin_bag_weight_kg": 12,
+    "personal_item": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.klm.nl/en/information/baggage/hand-baggage-allowance",
+    "source_url_2": "https://www.klm.com/information/legal/fees-paid-options",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/klm"
+  },
+  {
+    "airline": "Lufthansa",
+    "iata": "LH",
+    "allowance_model": null,
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_weight": 8,
+    "cabin_bag_weight_kg": 8,
+    "personal_item": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      15
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-07-29",
+    "source_url": "https://www.lufthansa.com/de/en/carry-on-baggage",
+    "source_url_2": null,
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/lufthansa"
+  },
+  {
+    "airline": "Ryanair",
+    "iata": "FR",
+    "allowance_model": null,
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      20
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      20
+    ],
+    "cabin_bag_weight": 10,
+    "cabin_bag_weight_kg": 10,
+    "personal_item": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-07-29",
+    "source_url": "https://help.ryanair.com/hc/en-gb/articles/12888036565521-Ryanair-s-Bag-Policy",
+    "source_url_2": null,
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/ryanair"
+  },
+  {
+    "airline": "Southwest Airlines",
+    "iata": "WN",
+    "allowance_model": "both_free",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      24,
+      16,
+      10
+    ],
+    "cabin_bag_cm": [
+      60.9,
+      40.6,
+      25.4
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": null,
+    "personal_item_cm": null,
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-03",
+    "source_url": "https://support.southwest.com/helpcenter/s/article/carryon-baggage-policy",
+    "source_url_2": "https://www.southwest.com/html/customer-service/travel-fees.html",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/southwest"
+  },
+  {
+    "airline": "SunExpress",
+    "iata": "XQ",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_weight": 8,
+    "cabin_bag_weight_kg": 8,
+    "personal_item": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_weight": 4,
+    "personal_item_weight_kg": 4,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.sunexpress.com/en-gb/information/luggage-info/hand-baggage/",
+    "source_url_2": "https://www.sunexpress.com/en-gb/information/luggage-info/",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/sunexpress"
+  },
+  {
+    "airline": "Transavia",
+    "iata": "HV",
+    "allowance_model": null,
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      25
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      25
+    ],
+    "cabin_bag_weight": 10,
+    "cabin_bag_weight_kg": 10,
+    "personal_item": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_weight": 10,
+    "personal_item_weight_kg": 10,
+    "verified_on": "2026-07-31",
+    "source_url": "https://www.transavia.com/help/en-eu/baggage/cabin-baggage/how-much-to-bring",
+    "source_url_2": null,
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/transavia"
+  },
+  {
+    "airline": "United Airlines",
+    "iata": "UA",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "in",
+    "native_weight_unit": "lb",
+    "cabin_bag": [
+      22,
+      14,
+      9
+    ],
+    "cabin_bag_cm": [
+      55.8,
+      35.5,
+      22.8
+    ],
+    "cabin_bag_weight": null,
+    "cabin_bag_weight_kg": null,
+    "personal_item": [
+      17,
+      10,
+      9
+    ],
+    "personal_item_cm": [
+      43.1,
+      25.4,
+      22.8
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-06",
+    "source_url": "https://www.united.com/en/us/fly/baggage/carry-on-bags.html",
+    "source_url_2": "https://www.united.com/en/us/fly/travel/inflight/basic-economy.html",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/united"
+  },
+  {
+    "airline": "Volotea",
+    "iata": "V7",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      25
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      25
+    ],
+    "cabin_bag_weight": 10,
+    "cabin_bag_weight_kg": 10,
+    "personal_item": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_weight": null,
+    "personal_item_weight_kg": null,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.volotea.com/en/baggage/",
+    "source_url_2": "https://www.volotea.com/en/your-booking/priority-boarding/",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/volotea"
+  },
+  {
+    "airline": "Wizz Air",
+    "iata": "W6",
+    "allowance_model": "carryon_fare_dependent",
+    "native_unit": "cm",
+    "native_weight_unit": "kg",
+    "cabin_bag": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_cm": [
+      55,
+      40,
+      23
+    ],
+    "cabin_bag_weight": 10,
+    "cabin_bag_weight_kg": 10,
+    "personal_item": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_cm": [
+      40,
+      30,
+      20
+    ],
+    "personal_item_weight": 10,
+    "personal_item_weight_kg": 10,
+    "verified_on": "2026-08-07",
+    "source_url": "https://www.wizzair.com/en-gb/help-centre/booking-information-and-services/baggage/baggage-allowance/cabin-baggage",
+    "source_url_2": "https://www.wizzair.com/en-gb/information-and-services/wizz-services/wizz-priority",
+    "checker_url": "https://vilanera.com/pages/hand-luggage-checker/wizzair"
+  }
+]
