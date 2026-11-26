@@ -1,6 +1,6 @@
 # Carry-on size by airline: cabin bag and personal item limits (open data)
 
-Carry-on, cabin bag and personal item size limits for 24 airlines in Europe and North America, as open data. Each row comes from the airline's own baggage page, with the link to that page and the date we last checked it.
+Carry-on, cabin bag and personal item size limits for 24 airlines, as open data. Each row comes from the airline's own baggage page, with the link to that page and the date we last checked it.
 
 This is the data behind the free [Vilanera hand-luggage size checker](https://vilanera.com/pages/hand-luggage-checker), where you can enter a bag's measurements and see whether it fits.
 
