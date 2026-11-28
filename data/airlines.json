@@ -336,7 +336,7 @@
   {
     "airline": "easyJet",
     "iata": "U2",
-    "allowance_model": null,
+    "allowance_model": "carryon_fare_dependent",
     "native_unit": "cm",
     "native_weight_unit": "kg",
     "cabin_bag": [
@@ -651,7 +651,7 @@
   {
     "airline": "Ryanair",
     "iata": "FR",
-    "allowance_model": null,
+    "allowance_model": "carryon_fare_dependent",
     "native_unit": "cm",
     "native_weight_unit": "kg",
     "cabin_bag": [
@@ -748,7 +748,7 @@
   {
     "airline": "Transavia",
     "iata": "HV",
-    "allowance_model": null,
+    "allowance_model": "carryon_fare_dependent",
     "native_unit": "cm",
     "native_weight_unit": "kg",
     "cabin_bag": [
